@@ -1,6 +1,6 @@
 name: Creative-Mojo
 favicon: null
-layout_spectrum: 0.18665652722120285
+layout_spectrum: 1
 typography_spectrum: 0.3723135555628687
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#010006'
+    - '#363637'
+    - '#b4b4b5'
+    - '#747476'
+    - '#e7e7e9'
   brandStrength: 0.6058318098075688
   lightness: 0.0316615616902709
   saturation: 0.7571909916587174
