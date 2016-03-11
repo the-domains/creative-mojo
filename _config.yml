@@ -1,0 +1,28 @@
+name: Creative-Mojo
+favicon: null
+layout_spectrum: 0.18665652722120285
+typography_spectrum: 0.3723135555628687
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6058318098075688
+  lightness: 0.0316615616902709
+  saturation: 0.7571909916587174
+  rhythmicContrast: 0.0883316108956933
+purpose: []
